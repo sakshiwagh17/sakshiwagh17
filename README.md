@@ -1,22 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Wagh</h1>
+<h3 align="center">A passionate developer</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiwagh17&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiwagh17" /> </p>
 
-<h4 align="left">My name is Sakshi Wagh and I'm a Web Developer</h4>
+- 🔭 I’m currently mastering **MERN STACK**
 
-###
+- 🌱 I’m currently learning **database like MYSQL,MongoDB**
 
-<h2 align="left">About me</h2>
+- 💬 Ask me about **JAVA,C++**
 
-###
+- 📫 How to reach me **sakshiwagh527@gmail.com**
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning MERN STACK<br>☁️ Ask me About JAVA,C++<br>📫How to reach me sakshiwagh527@gmail.com</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sakshi-wagh-4323612b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-wagh-4323612b1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sakshikwagh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakshikwagh17" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sakshiwagh_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshiwagh_17" height="30" width="40" /></a>
+</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -65,14 +67,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshiwagh17&show_icons=true&locale=en&layout=compact" alt="sakshiwagh17" /></p>
 
-###
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sakshiwagh17" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sakshi-wagh-4323612b1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshiwagh17&show_icons=true&locale=en" alt="sakshiwagh17" /></p>
