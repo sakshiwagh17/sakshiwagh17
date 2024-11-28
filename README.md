@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sakshi Wagh</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, Whats up?</h1>
+<h3 align="center">I am Sakshi Wagh!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiwagh17&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiwagh17" /> </p>
 
@@ -45,11 +45,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
