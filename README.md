@@ -70,4 +70,4 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshiwagh17&show_icons=true&locale=en&layout=compact" alt="sakshiwagh17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshiwagh17&show_icons=true&locale=en" alt="sakshiwagh17" /></p>
+
